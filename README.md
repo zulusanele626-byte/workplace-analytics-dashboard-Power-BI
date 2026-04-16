@@ -10,3 +10,28 @@ Build an interactive Power BI dashboard for decision-making
 
 # dataset used:
 <a href="https://github.com/zulusanele626-byte/workplace-analytics-dashboard-Power-BI/blob/main/superstore_final_dataset%20(1).xlsx">data set</a>
+
+# Ask Questions (KPIS)
+What are the total sales, average order value, and customer count?
+Which categories, products, and regions perform best?
+How do customer segments contribute to sales performance?
+What are the sales trends over time?
+How efficient is delivery across different shipping modes?
+
+# Processes
+
+Data Collection 
+
+Data Cleaning 
+
+Data Transformation 
+
+Data Analysis 
+
+Dashboard Creation 
+
+Insight Generation 
+
+Visualization Enhancement 
+
+#Dashboard 
