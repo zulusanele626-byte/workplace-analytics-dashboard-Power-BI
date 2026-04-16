@@ -13,9 +13,13 @@ Build an interactive Power BI dashboard for decision-making
 
 ## Ask Questions (KPIS)
 What are the total sales, average order value, and customer count?
+
 Which categories, products, and regions perform best?
+
 How do customer segments contribute to sales performance?
+
 What are the sales trends over time?
+
 How efficient is delivery across different shipping modes?
 
 ## Processes
