@@ -39,7 +39,7 @@ Insight Generation
 Visualization Enhancement 
 
 ## Dashboard 
-<img width="952" height="544" alt="Screenshot 2026-03-19 144531" src="https://github.com/zulusanele626-byte/workplace-analytics-dashboard-Power-BI/blob/main/Screenshot%202026-04-16%20125636.png"/>
+<img width="952" height="544" alt="Screenshot 2026-03-19 144531" src="https://github.com/zulusanele626-byte/workplace-analytics-dashboard-Power-BI/blob/main/Screenshot%202026-04-16%20120350.png"/>
 
 ## Project Insight
 
